@@ -1,9 +1,4 @@
-# Music genre classification
+# Music genre classifier
 
-### Feature extraction
-
-Extraction of time domain, frequency domain, and perceptual features  from a dataset of songs
-
-### Classifier implementation
-
-Use scikit-learn to train a genre classifier using the extracted feature from the training set
+- Extraction of time domain, frequency domain, and perceptual features from a dataset of songs
+- Use these extracted features to train a genre classifier with scikit-learn
